@@ -10,7 +10,7 @@ body{
 }
 
 .bg-image{
-    background-image: url(../../images/Img_1.png);
+    background-image: url(../img/Img_1.png);
     background-size: cover;
     width: 80%;
     height: 700px;
@@ -21,7 +21,7 @@ body{
 }
 
 .ground{
-    background-image: url(../../images/Img_02.png);
+    background-image: url(../img/Img_02.png);
     position: absolute;
     height: 150px;
     width: 15000%;
